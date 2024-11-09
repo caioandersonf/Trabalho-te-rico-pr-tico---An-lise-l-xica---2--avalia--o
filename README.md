@@ -1,3 +1,7 @@
+Trabalho teórico-prático - Análise léxica - 2ª avaliação
+
+Grupo composto por: Anthony Anderson Freitas da Silva, Caio Anderson Bezerra Fernandes, Joao Victor Paiva Maia e Samuel Lima Souza
+
 A expressão regular foi definida da seguinte forma
 
 Índice numérico: reconhece números inteiros, positivos ou negativos, entre colchetes.
